@@ -1,0 +1,20 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/fence_end",
+	"textures": {
+		"0": "block/bamboo_fence",
+		"particle": "block/bamboo_fence"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [14, 16, 0],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [8, 0, 0]},
+			"faces": {
+				"north": {"uv": [8, 0, 14, 16], "texture": "#0"},
+				"south": {"uv": [10, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
