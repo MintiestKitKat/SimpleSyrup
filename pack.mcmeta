@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 74.0,
+    "min_format": 88,
+	"max_format": 97.1,
     "description": "A simple, cutesy 8x8 pack."
   }
 }
