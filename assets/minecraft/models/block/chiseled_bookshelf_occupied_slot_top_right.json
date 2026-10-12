@@ -1,0 +1,18 @@
+{
+	"format_version": "26.3",
+	"credit": "Made by Baileybun",
+	"parent": "minecraft:block/template_chiseled_bookshelf_slot_top_right",
+	"textures": {
+		"particle": "block/chiseled_bookshelf_occupied",
+		"texture": "block/chiseled_bookshelf_occupied"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 0],
+			"to": [6, 16, 0],
+			"faces": {
+				"north": {"uv": [10, 0, 16, 8], "texture": "#texture", "cullface": "north"}
+			}
+		}
+	]
+}
